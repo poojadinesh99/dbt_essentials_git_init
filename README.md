@@ -13,7 +13,7 @@ Snowflake: raw                  staging (views)                     marts (table
 └── stripe.payment         →  stg_stripe__payments        ──┴→ fct_orders ┘
 ```
 
-![Lineage graph](docs/lineage.png)
+ ![Lineage graph](lineage.png)
 
 ## Project structure
 ```
